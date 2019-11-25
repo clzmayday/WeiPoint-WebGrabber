@@ -1,0 +1,5 @@
+1. 打开WeiPoint-EventExtractor.exe
+2. 根据选项进行大学选择
+3. 数据提取后系统会有提示
+4. 并在exe文件相同文件内寻找对应csv文件
+5. 关闭窗口
