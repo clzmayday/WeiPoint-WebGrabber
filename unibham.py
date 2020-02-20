@@ -83,6 +83,3 @@ class unibham:
                     row_content.append(row[column])
                 writer.writerow(row_content)
         print("Data has been saved in \"University of Birmingham.csv\"")
-
-
-
